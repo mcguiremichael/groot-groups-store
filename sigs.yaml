@@ -63,8 +63,8 @@
 - name: SIG AIDA
   description: Artificial Intelligence and Data Analytics
   chairs: Jeffrey Lai, Arjun Gupta, Shaw Kagawa
-  meetingTime: '1:00 PM - 4:00 PM'
-  meetingDay: Sunday
+  meetingTime: '1:00 PM - 4:00 PM Sundays, 5:00 PM - 7:00 PM Wednesdays & Thursdays'
+  meetingDay: Sunday, Wednesday, Thursday
   meetingLoc: Siebel 1105
   site: 'aida.acm.illinois.edu'
   members: []
